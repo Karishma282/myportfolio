@@ -30,7 +30,7 @@ const Projects = [
       `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
       `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
     ],
-    project_link: "https://flipkart01-clone.netlify.app/",
+    project_link: "https://flipkart-clone-frontend.vercel.app/",
     project_type: "Team Project",
   },
   // {
