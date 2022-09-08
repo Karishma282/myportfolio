@@ -33,24 +33,24 @@ const Projects = [
     project_link: "https://flipkart-clone-frontend.vercel.app/",
     project_type: "Team Project",
   },
-  // {
-  //   name: "Clone of Sony",
-  //   about:
-  //     "Sony website that sells All kinds of sony products like phones, TV's, Headphone etc.,",
-  //   img: "./sony.png",
-  //   gitrepo: "https://github.com/mohan-palleti/unit-3_project_Sony.co.in",
-  //   blog: "https://medium.com/@mohanpalleti/our-group-project-connecting-frontend-and-backend-b159a686b3d0",
-  //   tech_stack: "HTML | CSS | JAVASCRIPT",
-  //   tech_stackicons: [
-  //     `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
-  //     `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
-  //     `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
-  //     `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
-  //     `<img src="https://img.icons8.com/color/48/000000/redis.png"/>`,
-  //   ],
-  //   project_link: "https://sonyclone.netlify.app/index.html",
-  //   project_type: "Team Project",
-  // },
+  {
+    name: "Clone of Mytheresa",
+    about:
+      "Mytheresa is a German e-commerce luxury fashion company, with headquarters in Munich, Germany. Founded in 2006.Mytheresa is an online shopping destination for children, men and women's luxury clothing, bags, shoes, and accessories.,",
+    img: "./sony.png",
+    gitrepo: "https://github.com/vineethevk/Mytheresa",
+//     blog: "https://medium.com/@mohanpalleti/our-group-project-connecting-frontend-and-backend-b159a686b3d0",
+    tech_stack: "HTML | CSS | JAVASCRIPT | ReactJS | Redux",
+    tech_stackicons: [
+      `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
+      `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
+      `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
+      `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
+      `<img src="https://img.icons8.com/color/48/000000/redis.png"/>`,
+    ],
+    project_link: "https://sonyclone.netlify.app/index.html",
+    project_type: "Team Project",
+  },
   // {
   //   name: "Trending Movies App",
   //   about:
