@@ -37,7 +37,7 @@ const Projects = [
     name: "Clone of Mytheresa",
     about:
       "Mytheresa is a German e-commerce luxury fashion company, with headquarters in Munich, Germany. Founded in 2006.Mytheresa is an online shopping destination for children, men and women's luxury clothing, bags, shoes, and accessories.,",
-    img: "./sony.png",
+    img: "./mytheresa.png",
     gitrepo: "https://github.com/vineethevk/Mytheresa",
 //     blog: "https://medium.com/@mohanpalleti/our-group-project-connecting-frontend-and-backend-b159a686b3d0",
     tech_stack: "HTML | CSS | JAVASCRIPT | ReactJS | Redux",
@@ -48,7 +48,7 @@ const Projects = [
       `<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>`,
       `<img src="https://img.icons8.com/color/48/000000/redis.png"/>`,
     ],
-    project_link: "https://sonyclone.netlify.app/index.html",
+    project_link: "https://mytheresa-vineethevk.vercel.app/",
     project_type: "Team Project",
   },
   // {
