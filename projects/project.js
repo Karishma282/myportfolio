@@ -37,7 +37,7 @@ const Projects = [
     name: "Clone of Mytheresa",
     about:
       "Mytheresa is a German e-commerce luxury fashion company, with headquarters in Munich, Germany. Founded in 2006.Mytheresa is an online shopping destination for children, men and women's luxury clothing, bags, shoes, and accessories.,",
-    img: "./images/mytheresa.png",
+    img: "./mytheresa.png",
     gitrepo: "https://github.com/vineethevk/Mytheresa",
 //     blog: "https://medium.com/@mohanpalleti/our-group-project-connecting-frontend-and-backend-b159a686b3d0",
     tech_stack: "HTML | CSS | JAVASCRIPT | ReactJS | Redux",
